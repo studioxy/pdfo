@@ -1,0 +1,9 @@
+os
+re
+fnmatch
+shutil
+PyPDF2
+tkinter
+win32com.client
+json
+datetime

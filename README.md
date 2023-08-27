@@ -1,2 +1,0 @@
-# pdfo
- pdf files operator
